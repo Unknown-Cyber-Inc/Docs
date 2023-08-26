@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-25T15:16:38.527Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="ANmxL6xyGs_m9k9W8kiH" version="21.6.8" type="device" pages="2">
+<mxfile host="Electron" modified="2023-08-26T02:56:54.928Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="TydqlqoD0tK3Mqyni3J0" version="21.6.8" type="device" pages="2">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="UK-CustomerDrivenEventFlow">
-    <mxGraphModel dx="1114" dy="1658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="1443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,10 +86,10 @@
           <mxGeometry x="500.25" y="553" width="140" height="223" as="geometry" />
         </mxCell>
         <mxCell id="CWSIZRz48cNkIkLfrMRX-2089" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;" parent="1" vertex="1">
-          <mxGeometry x="546" y="349" width="48" height="50" as="geometry" />
+          <mxGeometry x="510" y="352" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CWSIZRz48cNkIkLfrMRX-2091" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Key_Vaults.svg;" parent="1" vertex="1">
-          <mxGeometry x="546.25" y="700" width="48" height="50" as="geometry" />
+          <mxGeometry x="510" y="710" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CWSIZRz48cNkIkLfrMRX-2093" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Images.svg;" parent="1" vertex="1">
           <mxGeometry x="778" y="316" width="50" height="46" as="geometry" />
@@ -163,11 +163,17 @@
         <mxCell id="CWSIZRz48cNkIkLfrMRX-2130" value="&lt;font size=&quot;1&quot; color=&quot;#ffff00&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;Azure&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="655.5" y="90" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Y2sZheTrThxWls4X2NW--2082" value="Event Grid" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Subscriptions.svg;" vertex="1" parent="1">
-          <mxGeometry x="542.3299999999999" y="250" width="55.83" height="50" as="geometry" />
+        <mxCell id="tZxqHb8sDIJhX0ayCadG-2080" value="Send Grid" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/SendGrid_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="536.1" y="248" width="66.8" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Y2sZheTrThxWls4X2NW--2083" value="Event Grid" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/Event_Grid_Subscriptions.svg;" vertex="1" parent="1">
-          <mxGeometry x="542.3399999999999" y="610" width="55.83" height="50" as="geometry" />
+        <mxCell id="tZxqHb8sDIJhX0ayCadG-2081" value="Send Grid" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/SendGrid_Accounts.svg;" vertex="1" parent="1">
+          <mxGeometry x="536.1" y="602.5" width="66.8" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="tZxqHb8sDIJhX0ayCadG-2082" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="580" y="352" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="tZxqHb8sDIJhX0ayCadG-2083" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/internet_of_things/Logic_Apps.svg;" vertex="1" parent="1">
+          <mxGeometry x="580" y="710" width="46" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
