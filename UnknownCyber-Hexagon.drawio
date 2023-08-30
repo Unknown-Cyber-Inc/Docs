@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2023-08-26T02:57:51.589Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="8YHudxw001BfDllwWuG5" version="21.6.8" type="device">
+<mxfile host="Electron" modified="2023-08-30T02:52:18.325Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.8 Chrome/114.0.5735.289 Electron/25.5.0 Safari/537.36" etag="Q-bLMmLozTgb5_eljfP0" version="21.6.8" type="device">
   <diagram name="Page-1" id="z9VQ8VyXXd_uXI_YR1s-">
-    <mxGraphModel dx="2875" dy="2611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2899" dy="2287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,11 +197,11 @@
         <mxCell id="ZF4_QcFy91cPp-O4kVIF-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Port 80 Redirected&lt;br&gt;Port 443&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1050" y="397.28" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GTm86KBDaU14jqB9yLgE-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/integration/SendGrid_Accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="11.399999999999977" y="-68" width="66.8" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="06CCblK8_iFs-0aNecfg-12" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Templates.svg;" parent="1" vertex="1">
           <mxGeometry x="56" y="-30" width="44" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jZ1deiU2e2fGRVUSsXFT-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Service_Bus.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-60" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
